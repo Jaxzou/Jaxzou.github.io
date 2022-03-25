@@ -8,5 +8,5 @@
     
 [![star](https://gitee.com/Jax_zou/Jax_zou/badge/star.svg?theme=dark)](https://gitee.com/Jax_zou/Jax_zou) [![fork](https://gitee.com/Jax_zou/Jax_zou/badge/fork.svg?theme=dark)](https://gitee.com/Jax_zou/Jax_zou)
 
-[Gitee](<https://jax_zou.gitee.io/>)
+[Gitee](<https://gitee.com/Jax_zou/Jax_zou/>)
 [开始阅读](README.md)
