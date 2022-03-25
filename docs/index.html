@@ -21,14 +21,14 @@
 <body>
 <div id="app"></div>
 <script>
-    var gitalkConfig = {
+    /*var gitalkConfig = {
       clientID: '4a657aa4ae6c0f1862a1',
       clientSecret: '94793d5bac0c884a8798ea941f7c5bc9fb004720',
       repo: 'jax_zou.gitee.io',
       owner: 'Jax',
       admin: ["Jax"],
       distractionFreeMode: false
-    };
+    };*/
     window.$docsify = {
       name: 'Jax',
       repo: 'https://jax_zou.gitee.io',
@@ -68,10 +68,10 @@
             divEle.className = "gitalk-container";
             divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
             domObj.appendTo(domObj.find(".content"), divEle);
-            gitalk = new Gitalk(
+            /*gitalk = new Gitalk(
               Object.assign(gitalkConfig, { id: !label ? "home" : label })
             );
-            gitalk.render("gitalk-container-" + label);
+            gitalk.render("gitalk-container-" + label);*/
           });
         }
       ]
